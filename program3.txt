@@ -1,0 +1,14 @@
+public class MultiplyTwoNumbers {
+    public static void main(String[] args) {
+        // Define the two numbers to be multiplied
+        double firstNumber = 10.5;
+        double secondNumber = 5.2;
+
+        // Multiply the two numbers
+        double result = firstNumber * secondNumber;
+
+        // Display the result
+        System.out.println("The result of multiplying " + firstNumber + " and " + secondNumber + " is: " + result);
+    }
+}
+
