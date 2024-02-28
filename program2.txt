@@ -1,0 +1,14 @@
+public class SubtractTwoNumbers {
+    public static void main(String[] args) {
+        // Define the two numbers to be subtracted
+        double firstNumber = 10.5;
+        double secondNumber = 5.2;
+
+        // Subtract the second number from the first number
+        double result = firstNumber - secondNumber;
+
+        // Display the result
+        System.out.println("The result of subtracting " + secondNumber + " from " + firstNumber + " is: " + result);
+    }
+}
+
